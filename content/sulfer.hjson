@@ -1,0 +1,9 @@
+name: Sulfer
+type: item
+buildable: true
+explosiveness: 0.4
+radioactivity: 0
+flamibility: 1.3
+charge: 0
+hardness: 1
+color: #edd266
