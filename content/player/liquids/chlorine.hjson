@@ -1,0 +1,11 @@
+name: Chlorine
+gas: true
+color: bbbfac
+gasColor: c6cfa5
+barColor: bbbfac
+flamability: 0
+chlorine: 0.2
+temperature: 0.6
+heatCapacity: 0.7
+boilPoint: 0.8
+l
