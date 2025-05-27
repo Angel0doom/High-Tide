@@ -52,3 +52,6 @@ consumes: {
     ]
 }
 category: crafting
+requirements: [
+  salt/50
+]
