@@ -10,7 +10,7 @@ hasLiquids: true
 liquidCapacity: 20
 outputLiquid: chlorine/0.15
 outputItem: oxide/3
-ambientSound: melting
+ambientSound: smelter
 ambientSoundVolume: 0.5
 consumes: {
     power: 1
