@@ -4,7 +4,7 @@ type: item
 buildable: true
 explosiveness: 1.0
 radioactivity: 0
-flamibility: 3.5
+flammability: 3.5
 charge: 0
 hardness: 4
 color: 5b8578
