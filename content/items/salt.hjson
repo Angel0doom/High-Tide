@@ -1,0 +1,10 @@
+name: Salt
+description: salt
+type: item
+buildable: false
+explosiveness: 0
+radioactivity: 0
+flamibility: 0
+charge: 0
+hardness: 5
+color: b398b2
