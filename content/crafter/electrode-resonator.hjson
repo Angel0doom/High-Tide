@@ -10,9 +10,10 @@ itemCapacity: 20
 hasLiquids: true
 liquidCapacity: 20
 output: {
-  liquids: [
-    chlorine/0.25
-  ]
+  liquid: {
+    liquid: chlorine
+    amount: 0.15
+  }
   items: [
     oxide/3
   ]
