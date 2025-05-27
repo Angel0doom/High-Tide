@@ -3,10 +3,10 @@ alwaysUnlocked: true
 mesh: [
  {
   type: noiseMesh
-  planet: dretid
-  divisions: 6
+  planet: dretis
+  divisions: 4
   seed: 90
-  radius: 0.3
+  radius: 0.2
   color1: c4d9f5
   color2: 76a6ab
   octaves: 2
@@ -23,14 +23,14 @@ orbitSpacing: 0.5
 minZoom: 0.1
 orbitRadius: 6
 orbitTime: 0.2
-radius: 0.3
+radius: 0.2
 drawOrbit: true
 accessible: true
 updateLighting: true
 sectorSeed: 14513
 bloom: true
 atmosphereRadIn: 0
-atmosphereRadOut: 0.3
+atmosphereRadOut: 0.25
 visible: true
 hasAtmosphere: true
 allowWaveSimulation: false
