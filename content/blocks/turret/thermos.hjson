@@ -16,10 +16,10 @@ ammoTypes: {
     width: 5.7
     damage: 16
     colors: [
-      6bffeb
-      8fffc3
-      baffc0
-      cff5c4
+      6bffeb,
+      8fffc3,
+      baffc0,
+      cff5c4,
       f6ffe8
     ]
   }
