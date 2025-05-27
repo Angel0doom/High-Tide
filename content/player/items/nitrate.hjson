@@ -1,4 +1,5 @@
 name: Nitrate
+description: nitrate
 type: item
 buildable: true
 explosiveness: 1.0
