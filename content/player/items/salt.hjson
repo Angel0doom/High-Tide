@@ -1,4 +1,5 @@
 name: Salt
+description: salt
 type: item
 buildable: false
 explosiveness: 0
