@@ -1,4 +1,5 @@
 name: Sulfer
+description: sulfer
 type: item
 buildable: true
 explosiveness: 0.4
