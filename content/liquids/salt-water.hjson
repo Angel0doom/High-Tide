@@ -1,0 +1,17 @@
+name: Salt Water
+description: Salt water
+type: liquid
+color: 465d82
+temperature: 0.45
+heatCapacity: 0.7
+viscosity: 0.6
+incinerable: false
+explosiveness: 0
+flammability: 0
+effect: slow
+color: b73333
+canStayOn: {
+  water
+  oil
+  arkycite
+}
