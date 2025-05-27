@@ -9,15 +9,8 @@ envDisabled: 0
 itemCapacity: 20
 hasLiquids: true
 liquidCapacity: 20
-output: {
-  liquid: {
-    liquid: chlorine
-    amount: 0.15
-  }
-  items: [
-    oxide/3
-  ]
-}
+outputLiquid: chlorine/0.15
+outputItem: oxide/3
 ambientSound: melting
 squareSprite: false
 ambientSoundVolume: 0.5
