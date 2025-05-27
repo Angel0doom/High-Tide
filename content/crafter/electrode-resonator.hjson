@@ -2,7 +2,7 @@ name: Electrode resonator
 description: Electrode resonator
 type: GenericCrafter
 craftEffect: none
-craftTime: 55
+craftTime: 30
 size: 4
 hasPower: true
 envDisabled: 0
@@ -11,36 +11,11 @@ hasLiquids: true
 liquidCapacity: 20
 output: {
   liquids: [
-    chlorine/0.5
+    chlorine/0.25
   ]
   items: [
-    oxide/1
+    oxide/3
   ]
-}
-drawer: {
-  type: DrawMulti
-  drawers: [
-{
-type: DrawRegion
-suffix: -bottom
-}
-    {
-type: DrawLiquidTile
-drawLiquid: chlorine
-padding: 6
-  }
-{
-type: DrawArcSmelt
-flameRad: 1.5
-circleSpace: 3
-particles: 30
-particleRad: 14
-particleLen: 4
-}
-{
-type: DrawDefault
-  }
-]
 }
 ambientSound: melting
 squareSprite: false
