@@ -1,0 +1,9 @@
+name: high-tids
+displayName: High Tide
+author: Angel0doom
+subtitle: "Lie in a watery grave."
+description:
+ "A solar expansion with 2 new planets and 4 moons."
+version: 0.1
+minGameVersion: 146
+repo: Angel0doom/High-Tide
