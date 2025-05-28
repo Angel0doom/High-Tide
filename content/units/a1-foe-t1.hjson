@@ -1,16 +1,16 @@
 name: Foe
 description: foe
 type: mech
-health: 510
+health: 430
 armor: 5
-hitSize: 0.68
+hitSize: 5.7
 rotateSpeed: 0.99
 mechStepParticles: true
 mechStepShake: 0.3
 mechFrontSway: 0.2
 mechSideSway: 0.1
 singleTarget: true
-speed: 2
+speed: 1.1
 range: 168
 weapons: [
   {
@@ -19,23 +19,18 @@ weapons: [
     x: 2
     y: 0
     rotate: false
-    baseRotation: -150
     inaccuracy: 18
-    shootCone: 360
-    shootSound: missile
-    hitEffect: blastExplosion
-    despawnEffect: blastExplosion
+    shootCone: 20
     shoot: {
-      shots: 2
-      shotDelay: 2
+      shots: 4
+      shotDelay: 7
     }
     bullet: {
       type: basicBulletType
-      homingRange: 180
-      homingPower: 0.07
       lifetime: 120
-      speed: 3
-      splashDamage: 28
+      speed: 4.5
+      splashDamage: 12
+      splashDamageRadius: 8
       incendAmount: 3
       incendSpread: 2
       incendChance: 0.3
