@@ -10,7 +10,7 @@ mechStepShake: 0.3
 mechFrontSway: 0.2
 mechSideSway: 0.1
 singleTarget: true
-speed: 0.9
+speed: 2
 range: 168
 weapons: [
   {
@@ -20,7 +20,7 @@ weapons: [
     y: 0
     rotate: false
     baseRotation: -150
-    inaccuracy: 10
+    inaccuracy: 18
     shootCone: 360
     shootSound: missile
     hitEffect: blastExplosion
@@ -32,9 +32,9 @@ weapons: [
     bullet: {
       type: basicBulletType
       homingRange: 180
-      homingPower: 0.11
+      homingPower: 0.07
       lifetime: 120
-      speed: 0.7
+      speed: 3
       splashDamage: 28
       incendAmount: 3
       incendSpread: 2
