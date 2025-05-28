@@ -20,7 +20,7 @@ allowLaunchLoadout: false
 allowSectorInvasion: false
 startSector: 0
 orbitSpacing: 0.5
-minZoom: 0.1
+minZoom: 0.3
 orbitRadius: 6
 orbitTime: 0.2
 radius: 0.2
