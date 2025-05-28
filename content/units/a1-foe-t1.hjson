@@ -27,7 +27,7 @@ weapons: [
     }
     bullet: {
       type: basicBulletType
-      lifetime: 120
+      lifetime: 37.33333333333333333333333333333333
       speed: 4.5
       splashDamage: 12
       splashDamageRadius: 8
