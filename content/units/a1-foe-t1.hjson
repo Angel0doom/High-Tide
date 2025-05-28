@@ -15,11 +15,11 @@ range: 168
 weapons: [
   {
     name: foe-main
-    reload: 260
+    reload: 180
     x: 2
     y: 0
     rotate: false
-    inaccuracy: 18
+    inaccuracy: 10
     shootCone: 20
     shoot: {
       shots: 4
