@@ -15,15 +15,15 @@ range: 168
 weapons: [
   {
     name: foe-main
-    reload: 180
-    x: 2
+    reload: 90
+    x: 5
     y: 0
     rotate: false
-    inaccuracy: 10
-    shootCone: 20
+    inaccuracy: 5
+    shootCone: 7
     shoot: {
       shots: 4
-      shotDelay: 7
+      shotDelay: 4
     }
     bullet: {
       type: basicBulletType
