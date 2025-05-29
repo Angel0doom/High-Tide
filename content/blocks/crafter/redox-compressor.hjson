@@ -24,6 +24,7 @@ consumes: {
     ]
     liquids: {
       oxygen/1
+    }
 }
 category: crafting
 requirements: [
