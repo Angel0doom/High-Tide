@@ -23,7 +23,7 @@ consumes: {
       graphite/3
     ]
     liquids: [
-      oxygen/1
+      ozone/1
     ]
 }
 category: crafting
