@@ -1,7 +1,7 @@
 name: Vanadium
 description: vanadium
 type: item
-buildable: false
+buildable: true
 explosiveness: 0
 radioactivity: 0
 flamibility: 0
