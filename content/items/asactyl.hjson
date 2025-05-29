@@ -1,0 +1,10 @@
+name: Asactyl
+description: asactyl
+type: item
+buildable: true
+explosiveness: 0
+radioactivity: 1
+flamibility: 5
+charge: 1
+hardness: 1
+color: #edd266
