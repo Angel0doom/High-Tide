@@ -22,9 +22,9 @@ consumes: {
       vanadium/4
       graphite/3
     ]
-    liquids: {
+    liquids: [
       oxygen/1
-    }
+    ]
 }
 category: crafting
 requirements: [
