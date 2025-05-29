@@ -1,5 +1,5 @@
-name: Electrode resonator
-description: Electrode resonator
+name: Redox compressor
+description: Redox compressor
 type: heatCrafter
 overheatScale: 0.5
 maxEfficiency: 5
