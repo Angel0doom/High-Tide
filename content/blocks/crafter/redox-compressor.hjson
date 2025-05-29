@@ -1,0 +1,31 @@
+name: Electrode resonator
+description: Electrode resonator
+type: heatCrafter
+overheatScale: 0.5
+maxEfficiency: 5
+heatRequirement: 20
+craftEffect: none
+craftTime: 90
+size: 4
+hasPower: true
+envDisabled: 0
+itemCapacity: 20
+hasLiquids: true
+liquidCapacity: 10
+outputItem: asactyl/2
+ambientSound: melting
+squareSprite: false
+ambientSoundVolume: 0.5
+consumes: {
+    power: 5
+    items: [
+      vanadium/4
+      graphite/3
+    ]
+    liquids: {
+      oxygen/1
+}
+category: crafting
+requirements: [
+  salt/50
+]
